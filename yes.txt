@@ -1,7 +1,9 @@
 yes=is not yes
 ysyonline=1;
 password=2;
+right < lelf
+for( int i = 0; i < 10; i++ ){
+ alert(i);
+}
 
-
-
-
+end;
