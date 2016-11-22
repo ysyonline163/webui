@@ -6,4 +6,14 @@ for( int i = 0; i < 10; i++ ){
  alert(i);
 }
 
+if(c === 1){
+  var a = new Tip();
+  var map = {};
+  map['scope'] == a;
+  a.invock.inst(map);
+  a.integer();
+}
+else{
+  return the new setp 1;
+}
 end;
